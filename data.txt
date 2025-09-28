@@ -1,2 +1,2 @@
-Testing out my new prototype(branch).
+Testing and validating the new models.
 working on modifying my branch
